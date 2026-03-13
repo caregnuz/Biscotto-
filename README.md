@@ -1,8 +1,8 @@
 <p align="center">
- <img src="https://i.ibb.co/k22STymH/Immagine-Whats-App-2025-10-23-ore-19-58-44-580b7b7d.jpg" alt="Immagine-Whats-App-2025-10-23-ore-19-58-44-580b7b7d" border="0"></a> 
+ <img src="https://files.catbox.moe/vlhvzg.jpeg" alt="Immagine-Whats-App-2025-10-23-ore-19-58-44-580b7b7d" border="0"></a> 
 </p>
 
-<h1 align="center">© ChatUnity-Bot 8.4 🤖</h1>
+<h1 align="center">© ChatUnity-Bot 8.7 🤖</h1>
 <p align="center"><strong>Un bot avanzato per WhatsApp, ricco di funzionalità e divertimento!</strong></p>
 
 <p align="center">
@@ -23,7 +23,7 @@
   <summary><b>Clicca qui per vedere i passaggi</b></summary>
 
 👉🏻 [Scarica Termux (MediaFire)](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/)  
-👉🏻 [Scarica zip bot](https://www.mediafire.com/file/hvv1zh6brlruy9r/chatunity-bot-main.zip/file)  
+👉🏻 [Scarica zip bot](https://github.com/chatunitycenter/chatunity-bot/archive/refs/heads/main.zip)  
 👉🏻 [Scarica MT Manager](https://mt-manager.en.softonic.com/android)
 
 </details>
@@ -51,7 +51,7 @@ yarn start
 
 [![Tutorial Installazione](https://img.shields.io/badge/Tutorial-Installazione-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/-FZYK-vj4BY)
 
-### 🚀 1. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/hvv1zh6brlruy9r/chatunity-bot-main.zip/file) la zip del bot
+### 🚀 1. Scarica  [CLICCANDO QUI](https://github.com/chatunitycenter/chatunity-bot/archive/refs/heads/main.zip) la zip del bot
 ### 🚀 2. Scarica  [CLICCANDO QUI](https://www.mediafire.com/file/0npdmv51pnttps0/com.termux_0.119.1-119_minAPI21(arm64-v8a,armeabi-v7a,x86,x86_64)(nodpi)_apkmirror.com.apk/) Termux
 ### 🚀 3. incollare tutto insieme i comandi sottostanti su termux
 ```bash
@@ -151,3 +151,7 @@ Grazie a tutti coloro che hanno contribuito a questo progetto!
 © ChatUnity-Bot. Tutti i diritti riservati. Consulta la licenza per i dettagli.
 
 <p align="center"><strong>🌟 Supporta il progetto con una stella su GitHub! 🌟</strong></p>
+
+
+
+## COPIAMO SAM IN TUTTO🫩🫰🏻
